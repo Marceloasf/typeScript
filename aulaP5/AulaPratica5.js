@@ -1,4 +1,4 @@
-var obj = {
+var objeto = {
     first_name: 'Marcelo',
     last_name: 'Silva'
 };

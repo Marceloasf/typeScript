@@ -1,6 +1,6 @@
 
-const obj = {
+const obj1 = {
     name:'son'
 };
 
-obj.name = 'other';
+obj1.name = 'other';

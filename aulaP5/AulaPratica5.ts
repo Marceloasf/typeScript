@@ -1,4 +1,4 @@
-let obj: object = {
+let objeto: object = {
     first_name: 'Marcelo',
     last_name: 'Silva'
 };
